@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ehdb/static/css/main.9dc895bc.chunk.css",
+    "main.js": "/ehdb/static/js/main.21588abb.chunk.js",
+    "main.js.map": "/ehdb/static/js/main.21588abb.chunk.js.map",
+    "runtime~main.js": "/ehdb/static/js/runtime~main.5bb964b7.js",
+    "runtime~main.js.map": "/ehdb/static/js/runtime~main.5bb964b7.js.map",
+    "static/js/2.bde1973a.chunk.js": "/ehdb/static/js/2.bde1973a.chunk.js",
+    "static/js/2.bde1973a.chunk.js.map": "/ehdb/static/js/2.bde1973a.chunk.js.map",
+    "index.html": "/ehdb/index.html",
+    "precache-manifest.87e695b9a498f82554966950f11457a3.js": "/ehdb/precache-manifest.87e695b9a498f82554966950f11457a3.js",
+    "service-worker.js": "/ehdb/service-worker.js",
+    "static/css/main.9dc895bc.chunk.css.map": "/ehdb/static/css/main.9dc895bc.chunk.css.map"
+  }
+}
