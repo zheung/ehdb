@@ -1,5 +1,4 @@
 ExHentai gallery metadata  
-[Online example page](https://tlaster.github.io/ehdb/)  
 **Before you clone,Make sure you have git lfs installed**, This repo is about 2GB large
 
 # Usage
