@@ -26,14 +26,14 @@ ApiRouter.get('/', async (req, res, next) => {
     }
     const items = await query
         .orderBy('g.gid', 'DESC')
-        .skip((page || 0) * 20)
+        .skip((parseInt(page) || 0) * 20)
         .take(20)
         .getMany();
     items.forEach(it => (it.tags as any) = it.tags.map(tag => tag.name))
     res.send({
         // totalPage: Math.ceil(total / 20),
         // totalCount: total,
-        currentPage: page || 0,
+        currentPage: parseInt(page) || 0,
         items,
     })
 });
